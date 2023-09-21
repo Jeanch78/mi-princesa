@@ -2,7 +2,7 @@
   "name": "princesa",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://jeanch78.github.io/mi-princesa",
+  "homepage": "https://jeanch78.github.io/mi-princesa/",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
